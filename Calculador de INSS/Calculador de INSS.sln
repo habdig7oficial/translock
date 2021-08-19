@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculador de INSS", "Calculador de INSS.csproj", "{487271C8-F813-4005-9EC3-B35AD8B9451E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{487271C8-F813-4005-9EC3-B35AD8B9451E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487271C8-F813-4005-9EC3-B35AD8B9451E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487271C8-F813-4005-9EC3-B35AD8B9451E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487271C8-F813-4005-9EC3-B35AD8B9451E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3507D85C-8E66-48CE-8EC1-657D19BE544E}
+	EndGlobalSection
+EndGlobal

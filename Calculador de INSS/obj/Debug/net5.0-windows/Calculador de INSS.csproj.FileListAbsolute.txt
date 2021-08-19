@@ -1,0 +1,18 @@
+C:\Users\habdi\Source\Repos\Calculador de INSS\bin\Debug\net5.0-windows\Calculador de INSS.exe
+C:\Users\habdi\Source\Repos\Calculador de INSS\bin\Debug\net5.0-windows\Calculador de INSS.deps.json
+C:\Users\habdi\Source\Repos\Calculador de INSS\bin\Debug\net5.0-windows\Calculador de INSS.runtimeconfig.json
+C:\Users\habdi\Source\Repos\Calculador de INSS\bin\Debug\net5.0-windows\Calculador de INSS.runtimeconfig.dev.json
+C:\Users\habdi\Source\Repos\Calculador de INSS\bin\Debug\net5.0-windows\Calculador de INSS.dll
+C:\Users\habdi\Source\Repos\Calculador de INSS\bin\Debug\net5.0-windows\ref\Calculador de INSS.dll
+C:\Users\habdi\Source\Repos\Calculador de INSS\bin\Debug\net5.0-windows\Calculador de INSS.pdb
+C:\Users\habdi\Source\Repos\Calculador de INSS\obj\Debug\net5.0-windows\Calculador de INSS.csproj.AssemblyReference.cache
+C:\Users\habdi\Source\Repos\Calculador de INSS\obj\Debug\net5.0-windows\Calculador_de_INSS.Form1.resources
+C:\Users\habdi\Source\Repos\Calculador de INSS\obj\Debug\net5.0-windows\Calculador de INSS.csproj.GenerateResource.cache
+C:\Users\habdi\Source\Repos\Calculador de INSS\obj\Debug\net5.0-windows\Calculador de INSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\habdi\Source\Repos\Calculador de INSS\obj\Debug\net5.0-windows\Calculador de INSS.AssemblyInfoInputs.cache
+C:\Users\habdi\Source\Repos\Calculador de INSS\obj\Debug\net5.0-windows\Calculador de INSS.AssemblyInfo.cs
+C:\Users\habdi\Source\Repos\Calculador de INSS\obj\Debug\net5.0-windows\Calculador de INSS.csproj.CoreCompileInputs.cache
+C:\Users\habdi\Source\Repos\Calculador de INSS\obj\Debug\net5.0-windows\Calculador de INSS.dll
+C:\Users\habdi\Source\Repos\Calculador de INSS\obj\Debug\net5.0-windows\ref\Calculador de INSS.dll
+C:\Users\habdi\Source\Repos\Calculador de INSS\obj\Debug\net5.0-windows\Calculador de INSS.pdb
+C:\Users\habdi\Source\Repos\Calculador de INSS\obj\Debug\net5.0-windows\Calculador de INSS.genruntimeconfig.cache
